@@ -51,7 +51,7 @@
 
 1. Скачай или склонируй репозиторий:
    ```bash
-   git clone https://github.com/USERNAME/task-manager-cpp.git
+   git clone https://github.com/USERNAME/task-manager-cpp.git](https://github.com/riorita41-cloud/Task-manager/blob/main/ConsoleApplication1.cpp
    ```
 2. Открой файл `ConsoleApplication1.cpp` в Visual Studio:
    - **Файл** → **Открыть** → **Файл...** → выбери `ConsoleApplication1.cpp`
