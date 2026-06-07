@@ -1,69 +1,72 @@
-# Prerequisites
-*.d
+# ===========================================
+# Временные файлы и папки сборки Visual Studio
+# ===========================================
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Папки с результатами компиляции
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# ===========================================
+# Пользовательские настройки Visual Studio
+# ===========================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===========================================
+# Файлы компиляции (объекты, библиотеки)
+# ===========================================
 *.obj
-
-# Precompiled Headers
-*.gch
+*.o
 *.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
 *.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.ilk
+*.idb
 *.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Build directories
-build/
-Build/
-build-*/
-
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
-
-# Temporary files
-*.tmp
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe        # Исполняемые файлы (твоя программа)
 *.log
-*.bak
-*.swp
+*.tlog
+*.lastbuildstate
 
-# vcpkg
-vcpkg_installed/
+# ===========================================
+# Файлы данных пользователя
+# ===========================================
+tasks.txt    # Файл с задачами (персональные данные)
 
-# debug information files
-*.dwo
+# ===========================================
+# Файлы операционной системы
+# ===========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
 
-# test output & cache
-Testing/
-.cache/
+# ===========================================
+# Файлы IntelliSense и кэша
+# ===========================================
+*.VC.db
+*.VC.opendb
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db-shm
+*.VC.db-wal
