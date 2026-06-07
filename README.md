@@ -170,7 +170,6 @@ task-manager-cpp/
 ├── ConsoleApplication1.cpp  ← Исходный код программы
 ├── README.md                ← Описание проекта
 ├── .gitignore               ← Игнорируемые файлы
-├── LICENSE                  ← Лицензия MIT
 └── tasks.txt                ← Файл с задачами (создаётся автоматически)
 ```
 
