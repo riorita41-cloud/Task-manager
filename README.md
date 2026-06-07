@@ -1,7 +1,7 @@
 # 📝 Task Manager
 
 [![C++](https://img.shields.io/badge/C%2B%2B-11-blue?logo=c%2B%2B)](https://isocpp.org/)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20)]()
 
 > Простое консольное приложение для управления списком задач, написанное на C++ с использованием только стандартной библиотеки.
 
