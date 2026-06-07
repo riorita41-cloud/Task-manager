@@ -1,7 +1,6 @@
 # 📝 Task Manager
 
 [![C++](https://img.shields.io/badge/C%2B%2B-11-blue?logo=c%2B%2B)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=visualstudio)](https://visualstudio.microsoft.com/)
 
